@@ -1,5 +1,5 @@
-const accountSid = 'XXXX',
-    authToken = 'XXXXX',
+const accountSid = 'AC7a96edd461700342fd73d545d8dca81f',
+    authToken = '8a672f33c64641c7340d75a57ae1ec56',
     JagaPhone = '+918884268723',
     TwilioPhone = '+18063053046';
 
