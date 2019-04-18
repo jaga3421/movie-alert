@@ -20,8 +20,7 @@ const isAvengers = list=> {
 
 function CheckJazz(){
     scrapp.then(data=>{
-        console.log(data)
-        if (!isAvengers(data)) {
+        if (isAvengers(data)) {
             makeCall();
             console.log(`Avengers Booking Opened: ${new Date}`)
         }
